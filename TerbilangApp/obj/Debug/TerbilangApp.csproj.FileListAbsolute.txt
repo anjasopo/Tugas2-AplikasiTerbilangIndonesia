@@ -1,0 +1,12 @@
+C:\Users\Anjas\source\repos\Terbilang\TerbilangApp\bin\Debug\TerbilangApp.exe.config
+C:\Users\Anjas\source\repos\Terbilang\TerbilangApp\bin\Debug\TerbilangApp.exe
+C:\Users\Anjas\source\repos\Terbilang\TerbilangApp\bin\Debug\TerbilangApp.pdb
+C:\Users\Anjas\source\repos\Terbilang\TerbilangApp\bin\Debug\TerbilangLibrary.dll
+C:\Users\Anjas\source\repos\Terbilang\TerbilangApp\bin\Debug\TerbilangLibrary.pdb
+C:\Users\Anjas\source\repos\Terbilang\TerbilangApp\obj\Debug\TerbilangApp.csprojResolveAssemblyReference.cache
+C:\Users\Anjas\source\repos\Terbilang\TerbilangApp\obj\Debug\TerbilangApp.FrmTerbilang.resources
+C:\Users\Anjas\source\repos\Terbilang\TerbilangApp\obj\Debug\TerbilangApp.Properties.Resources.resources
+C:\Users\Anjas\source\repos\Terbilang\TerbilangApp\obj\Debug\TerbilangApp.csproj.GenerateResource.Cache
+C:\Users\Anjas\source\repos\Terbilang\TerbilangApp\obj\Debug\TerbilangApp.csproj.CoreCompileInputs.cache
+C:\Users\Anjas\source\repos\Terbilang\TerbilangApp\obj\Debug\TerbilangApp.exe
+C:\Users\Anjas\source\repos\Terbilang\TerbilangApp\obj\Debug\TerbilangApp.pdb

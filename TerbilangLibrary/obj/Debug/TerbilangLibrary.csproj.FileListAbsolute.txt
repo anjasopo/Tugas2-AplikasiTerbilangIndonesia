@@ -1,0 +1,6 @@
+C:\Users\Anjas\source\repos\Terbilang\TerbilangLibrary\bin\Debug\TerbilangLibrary.dll
+C:\Users\Anjas\source\repos\Terbilang\TerbilangLibrary\bin\Debug\TerbilangLibrary.pdb
+C:\Users\Anjas\source\repos\Terbilang\TerbilangLibrary\obj\Debug\TerbilangLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Anjas\source\repos\Terbilang\TerbilangLibrary\obj\Debug\TerbilangLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Anjas\source\repos\Terbilang\TerbilangLibrary\obj\Debug\TerbilangLibrary.dll
+C:\Users\Anjas\source\repos\Terbilang\TerbilangLibrary\obj\Debug\TerbilangLibrary.pdb
